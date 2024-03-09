@@ -1,3 +1,6 @@
+
+
+<h1 align="center">Hi  👋,I'm Shubham Singh</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
 - 🌱 I’m currently learning **React,Nextjs,Nodejs**
