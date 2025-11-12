@@ -3,9 +3,9 @@
 <h1 align="center">Hi  👋,I'm Shubham Singh</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🌱 I’m currently learning **React,Nextjs,Nodejs**
+- 🌱 I’m currently learning **React,Nodejs,Golang**
 
-- 💬 Ask me about **android,webdev and web3**
+- 💬 Ask me about **Frontend and Backend**
 
 - 📫 How to reach me **ap2490030@gmail.com**
 
