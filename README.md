@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React,Nodejs,Golang**
 
-- 💬 Ask me about **Frontend and Backend**
+- 💬 Ask me about **Backend,LLM and Deployment**
 
 - 📫 How to reach me **ap2490030@gmail.com**
 
