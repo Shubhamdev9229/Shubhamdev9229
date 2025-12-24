@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Backend,LLM and Deployment**
 
-- 📫 How to reach me **ap2490030@gmail.com**
+- 📫 How to reach me **shubhamworks9229@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
