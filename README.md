@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React,Nodejs,Golang**
 
-- 💬 Ask me about **Backend,LLM and Deployment**
+- 💬 Ask me about **Full Stack,LLM and Deployment**
 
 - 📫 How to reach me **shubhamworks9229@gmail.com**
 
